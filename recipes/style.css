@@ -1,0 +1,4 @@
+ol > li p {
+    word-wrap: break-word;
+    width: 60rem;
+}
